@@ -1,19 +1,19 @@
 {
-    "lena_raine_creator": {
-        "sounds": [
-          {
-            "name": "betterdisco:lena_raine_creator",
-            "stream": true
-          }
-        ]
-    },
-    "precipice": {
-      "sounds": [
-        {
-          "name": "betterdisco:precipice",
-          "stream": true
-        }
-      ]
+  "lena_raine_creator": {
+    "sounds": [
+      {
+        "name": "betterdisco:lena_raine_creator",
+        "stream": true
+      }
+    ]
+  },
+  "precipice": {
+    "sounds": [
+      {
+        "name": "betterdisco:precipice",
+        "stream": true
+      }
+    ]
   },
   "vignette": {
     "sounds": [
@@ -22,61 +22,69 @@
         "stream": true
       }
     ]
-},
-"komm_susser_tod": {
-  "sounds": [
-    {
-      "name": "betterdisco:komm_susser_tod",
-      "stream": true
-    }
-  ]
-},
-"never_gonna_give_you_up": {
-  "sounds": [
-    {
-      "name": "betterdisco:never_gonna_give_you_up",
-      "stream": true
-    }
-  ]
-},
-"miwa_change": {
-  "sounds": [
-    {
-      "name": "betterdisco:miwa_change",
-      "stream": true
-    }
-  ]
-},
-"remember_that_night": {
-  "sounds": [
-    {
-      "name": "betterdisco:remember_that_night",
-      "stream": true
-    }
-  ]
-},
-"navigating": {
-  "sounds": [
-    {
-      "name": "betterdisco:navigating",
-      "stream": true
-    }
-  ]
-},
-"paladin_strait": {
-  "sounds": [
-    {
-      "name": "betterdisco:paladin_strait",
-      "stream": true
-    }
-  ]
-},
-"routines_in_the_night": {
-  "sounds": [
-    {
-      "name": "betterdisco:routines_in_the_night",
-      "stream": true
-    }
-  ]
-}
+  },
+  "komm_susser_tod": {
+    "sounds": [
+      {
+        "name": "betterdisco:komm_susser_tod",
+        "stream": true
+      }
+    ]
+  },
+  "never_gonna_give_you_up": {
+    "sounds": [
+      {
+        "name": "betterdisco:never_gonna_give_you_up",
+        "stream": true
+      }
+    ]
+  },
+  "miwa_change": {
+    "sounds": [
+      {
+        "name": "betterdisco:miwa_change",
+        "stream": true
+      }
+    ]
+  },
+  "remember_that_night": {
+    "sounds": [
+      {
+        "name": "betterdisco:remember_that_night",
+        "stream": true
+      }
+    ]
+  },
+  "navigating": {
+    "sounds": [
+      {
+        "name": "betterdisco:navigating",
+        "stream": true
+      }
+    ]
+  },
+  "paladin_strait": {
+    "sounds": [
+      {
+        "name": "betterdisco:paladin_strait",
+        "stream": true
+      }
+    ]
+  },
+  "routines_in_the_night": {
+    "sounds": [
+      {
+        "name": "betterdisco:routines_in_the_night",
+        "stream": true
+      }
+    ]
+  },
+  "all_my_life": {
+    "sounds": [
+      {
+        "name": "betterdisco:all_my_life",
+        "stream": true
+      }
+    ]
+  }
 }

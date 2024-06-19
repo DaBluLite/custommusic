@@ -29,10 +29,11 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.ROUTINES_IN_THE_NIGHT_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.NAVIGATING_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.PALADIN_STRAIT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ALL_MY_LIFE_MUSIC_DISC, Models.GENERATED);
     }
 
     @Override
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
-        
+
     }
 }

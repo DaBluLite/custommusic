@@ -27,6 +27,8 @@ public class ModSounds {
 
     public static SoundEvent PALADIN_STRAIT = registerSoundEvent("paladin_strait");
 
+    public static SoundEvent ALL_MY_LIFE = registerSoundEvent("all_my_life");
+
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = new Identifier("betterdisco", name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));
