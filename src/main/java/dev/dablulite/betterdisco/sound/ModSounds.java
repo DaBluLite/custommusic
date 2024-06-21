@@ -2,7 +2,6 @@ package dev.dablulite.betterdisco.sound;
 
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
-import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 
@@ -25,9 +24,9 @@ public class ModSounds {
 
     public static SoundEvent NAVIGATING = registerSoundEvent("navigating");
 
-    public static SoundEvent PALADIN_STRAIT = registerSoundEvent("paladin_strait");
-
     public static SoundEvent ALL_MY_LIFE = registerSoundEvent("all_my_life");
+
+    public static SoundEvent SOULLESS_EXISTENCE = registerSoundEvent("soulless_existence");
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = new Identifier("betterdisco", name);

@@ -53,12 +53,12 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
         getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.NAVIGATING_MUSIC_DISC);
         getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.NAVIGATING_MUSIC_DISC);
 
-        // Adding Paladin Strait music disc
-        getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.PALADIN_STRAIT_MUSIC_DISC);
-        getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.PALADIN_STRAIT_MUSIC_DISC);
-
         // Adding All My Life music disc
         getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.ALL_MY_LIFE_MUSIC_DISC);
         getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.ALL_MY_LIFE_MUSIC_DISC);
+
+        // Adding Soulless Existence music disc
+        getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.SOULLESS_EXISTENCE_MUSIC_DISC);
+        getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.SOULLESS_EXISTENCE_MUSIC_DISC);
     }
 }

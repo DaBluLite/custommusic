@@ -4,13 +4,8 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import dev.dablulite.betterdisco.item.ModItems;
 import net.minecraft.data.client.ItemModelGenerator;
-import net.minecraft.data.client.Model;
 import net.minecraft.data.client.BlockStateModelGenerator;
 import net.minecraft.data.client.Models;
-import net.minecraft.item.ArmorItem;
-import net.minecraft.util.Identifier;
-
-import java.util.Optional;
 
 public class ModModelProvider extends FabricModelProvider {
     public ModModelProvider(FabricDataOutput output) {
@@ -28,8 +23,8 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.REMEMBER_THAT_NIGHT_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.ROUTINES_IN_THE_NIGHT_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.NAVIGATING_MUSIC_DISC, Models.GENERATED);
-        itemModelGenerator.register(ModItems.PALADIN_STRAIT_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.ALL_MY_LIFE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SOULLESS_EXISTENCE_MUSIC_DISC, Models.GENERATED);
     }
 
     @Override

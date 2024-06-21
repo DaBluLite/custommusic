@@ -63,14 +63,6 @@
       }
     ]
   },
-  "paladin_strait": {
-    "sounds": [
-      {
-        "name": "betterdisco:paladin_strait",
-        "stream": true
-      }
-    ]
-  },
   "routines_in_the_night": {
     "sounds": [
       {
@@ -83,6 +75,14 @@
     "sounds": [
       {
         "name": "betterdisco:all_my_life",
+        "stream": true
+      }
+    ]
+  },
+  "soulless_existence": {
+    "sounds": [
+      {
+        "name": "betterdisco:soulless_existence",
         "stream": true
       }
     ]
